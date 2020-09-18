@@ -1,0 +1,13 @@
+C:\Users\admin\Downloads\PatronMediator\bin\Debug\netcoreapp3.1\PatronMediator.exe
+C:\Users\admin\Downloads\PatronMediator\bin\Debug\netcoreapp3.1\PatronMediator.deps.json
+C:\Users\admin\Downloads\PatronMediator\bin\Debug\netcoreapp3.1\PatronMediator.runtimeconfig.json
+C:\Users\admin\Downloads\PatronMediator\bin\Debug\netcoreapp3.1\PatronMediator.runtimeconfig.dev.json
+C:\Users\admin\Downloads\PatronMediator\bin\Debug\netcoreapp3.1\PatronMediator.dll
+C:\Users\admin\Downloads\PatronMediator\bin\Debug\netcoreapp3.1\PatronMediator.pdb
+C:\Users\admin\Downloads\PatronMediator\obj\Debug\netcoreapp3.1\PatronMediator.csprojAssemblyReference.cache
+C:\Users\admin\Downloads\PatronMediator\obj\Debug\netcoreapp3.1\PatronMediator.AssemblyInfoInputs.cache
+C:\Users\admin\Downloads\PatronMediator\obj\Debug\netcoreapp3.1\PatronMediator.AssemblyInfo.cs
+C:\Users\admin\Downloads\PatronMediator\obj\Debug\netcoreapp3.1\PatronMediator.csproj.CoreCompileInputs.cache
+C:\Users\admin\Downloads\PatronMediator\obj\Debug\netcoreapp3.1\PatronMediator.dll
+C:\Users\admin\Downloads\PatronMediator\obj\Debug\netcoreapp3.1\PatronMediator.pdb
+C:\Users\admin\Downloads\PatronMediator\obj\Debug\netcoreapp3.1\PatronMediator.genruntimeconfig.cache
